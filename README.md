@@ -171,7 +171,7 @@ const victorGarcia = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Garcia_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-garcia-santos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Garcia_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-garcia-santos-16465a326/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://viktorcito.github.io)
 
 
