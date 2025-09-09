@@ -63,16 +63,16 @@
 
 <div align="center">
 
-### 📚 [Proyectos de Aprendizaje](https://github.com/viktorcito/learning-projects)
+### 📚 [Proyectos de Aprendizaje](https://github.com/viktorcito/Proyectos-de-Programacion-y-Retos)
 *Experimentación con nuevas tecnologías y frameworks*
 
-### 🎓 [FP DAW - Alonso Avellaneda](https://github.com/viktorcito/fp-daw-alonso-avellaneda)
+### 🎓 [FP DAW - Alonso Avellaneda](https://github.com/viktorcito/1-Fp-Daw-Avellaneda)
 *Proyectos académicos y fundamentos de desarrollo web*
 
-### 🌐 [FP DAW - UNIR](https://github.com/viktorcito/fp-daw-unir)
+### 🌐 [FP DAW - UNIR](https://github.com/viktorcito/2-Fp-Daw-Unir)
 *Formación especializada y proyectos avanzados*
 
-### ⭐ [Proyectos Destacados](https://github.com/viktorcito/featured-projects)
+### ⭐ [Proyectos Destacados](https://github.com/viktorcito/Proyectos-chulis)
 *Mis mejores trabajos y aplicaciones completas*
 
 </div>
@@ -172,9 +172,9 @@ const victorGarcia = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Garcia_Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-garcia-santos)
-[![GitHub](https://img.shields.io/badge/GitHub-viktorcito-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viktorcito)
-[![Email](https://img.shields.io/badge/Email-victor.garcia.santos20@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.garcia.santos20@gmail.com)
-[![Phone](https://img.shields.io/badge/Teléfono-+34_667_417_996-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34667417996)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://viktorcito.github.io)
+
+
 
 </div>
 
