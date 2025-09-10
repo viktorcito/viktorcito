@@ -117,7 +117,7 @@
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorcito&layout=compact&langs_count=8&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_color=30363D"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorcito&layout=compact&langs_count=8&theme=radical&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_color=30363D&v=1"/>
 </div>
 
 <div align="center">
